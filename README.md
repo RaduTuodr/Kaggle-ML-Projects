@@ -7,6 +7,7 @@ This repository contains my machine learning projects from Kaggle, focusing on a
 - **MLR (Multiple Linear Regression):** Uses multiple predictors for prediction.
 - **Data Scaling:** Standardizes the data range.
 - **KNN (K-Nearest Neighbors):** A method for both classification and regression.
+- **LGR (Logistic Regression):** A method for modeling the probability of an outcome given an input variable. Tipically, the outcome is in binary form (eg. Breast Cancer Diagnostic)
 
 ## Usage
 
