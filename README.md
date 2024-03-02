@@ -8,8 +8,7 @@ This repository contains my machine learning projects from Kaggle, focusing on a
 - **Data Scaling:** Standardizes the data range.
 - **KNN (K-Nearest Neighbors):** A method for both classification and regression.
 - **LGR (Logistic Regression):** A method for modeling the probability of an outcome given an input variable. Tipically, the outcome is in binary form (eg. Breast Cancer Diagnostic)
-
-## Usage
+- **TF-IDF (Term Frequency - Inverse Document Frequency):** statistical method in natural language processing
 
 Clone the repository and navigate to the project of interest:
 
